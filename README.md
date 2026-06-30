@@ -22,7 +22,7 @@ Atividade proposta em aula, controle de chamados feito em C# e registro feito em
 ### Pré requisitos
 - .NET 10++
 
-## 📁 COntrole_e_Solicitação_de_chamados
+## 📁 Controle_e_Solicitação_de_chamados
 ```C#
 program.cs              # Arquivo de inicialização (executa a Main)  
 Chamado.cs              # Tela de preenchimento para abertura do chamado (Executa classe pública de chamados)
@@ -30,7 +30,7 @@ ListadeChamados.cs      # Exibe a condição do chamado com as informações que
 Menu.cs                 # Consiste em 3 telas menu iniciall, solicitar chamado e gerenciar chamado (As 3 classes são voids que não necessitam de valor, servem apenas para confirmar a seleção)
 statuschamado.cs        # Coloca a condição do chamado (Classe pública para definir o status)
 chamados.json           # Registro dos chamados      
-README.md        # Documentação  
+README.md               # Documentação  
 ```
 
 # Feito por:
